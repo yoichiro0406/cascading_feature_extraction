@@ -1,5 +1,5 @@
 # Cascading Feature Extraction for Fast Point Cloud Registration
-This repository contains the source code for the paper [Arxive link comming soon].
+This repository contains the source code for the paper ["Cascading Feature Extraction for Fast Point Cloud Registration, (BMVC2021)"](https://arxiv.org/abs/2110.12204) by Yoichiro Hisadome and Yusuke Matsui.
 
 
 <img src="pics/arch.png" width=100% />
@@ -64,6 +64,6 @@ python eval.py --resume ../pretrained/modelnet40.pth
 
 ## Acknowledgements
 Our code is mainly based on [RPMNet](https://github.com/yewzijian/RPMNet). 
-We appriciate them for making the code available.
+We appreciate them for making the code available.
 
 

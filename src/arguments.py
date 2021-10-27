@@ -240,7 +240,7 @@ def cfenet_train_arguments():
 
     parser.add_argument(
         "--epochs",
-        default=1000,
+        default=850,
         type=int,
         metavar="N",
         help="number of total epochs to run",
