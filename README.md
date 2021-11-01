@@ -1,5 +1,5 @@
 # Cascading Feature Extraction for Fast Point Cloud Registration
-This repository contains the source code for the paper ["Cascading Feature Extraction for Fast Point Cloud Registration, (BMVC2021)"](https://arxiv.org/abs/2110.12204) by Yoichiro Hisadome and Yusuke Matsui.
+This repository contains the source code for the paper ["Cascading Feature Extraction for Fast Point Cloud Registration, (BMVC2021)"](https://arxiv.org/abs/2110.12204) by Yoichiro Hisadome and [Yusuke Matsui](https://yusukematsui.me/).
 
 
 <img src="pics/arch.png" width=100% />
@@ -35,7 +35,7 @@ curl -O https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip
 
 ### Requirements
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 We confirmed that the code runs at ```Python>=3.7```.
 
