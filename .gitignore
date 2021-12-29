@@ -1,0 +1,9 @@
+dataset*
+venv
+logs
+eval_results
+*.code-workspace
+__pycache__
+*.sh.o*
+pretrained
+stdout*
